@@ -7,7 +7,7 @@ Welcome to my personal `README.md`! I'm Arjak Roy, a passionate and detail-orien
 ## 🌟 Skills & Expertise
 
 ### 💻 Web and Mobile Development
-- **Frontend:** Proficient in **HTML**, **CSS**, and **JavaScript** to craft user-friendly and responsive designs.
+- **Frontend:** Proficient in ***Flutter*** ,**HTML**, **CSS**, and **JavaScript** to craft user-friendly and responsive designs.
 - **Backend:** Skilled in **Node.js** for building scalable and efficient server-side applications.
 - **Mobile & Web Apps:** Experienced in **Flutter** for creating dynamic, cross-platform applications.
 
