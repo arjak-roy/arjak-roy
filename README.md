@@ -35,8 +35,10 @@ I thrive in a collaborative environment, where ideas flow freely, and innovation
 ---
 
 ## 📫 Let's Connect!
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Profile Here]
+- **Email:** arjakroy2411@gmail.com
+- **LinkedIn:** www.linkedin.com/in/arjak-roy-07400524a
+
+
 
 ---
 
